@@ -1,0 +1,1 @@
+This project is about of the code you need to know for use emacs properly.
