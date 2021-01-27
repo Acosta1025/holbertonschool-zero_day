@@ -1,1 +1,0 @@
-This project is about how use git.
