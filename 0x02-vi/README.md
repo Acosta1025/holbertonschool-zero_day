@@ -1,0 +1,1 @@
+This projec is about of the command that we need to know when we start using vi.
